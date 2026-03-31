@@ -1,7 +1,5 @@
 # End-To-End Customer Retail Behaviour Analysis
 
-# Customer Shopping Behavior Analysis
-
 ## 📌 Project Overview
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases**. The objective is to uncover insights into spending patterns, customer segments, and product preferences to guide strategic business decisions. By integrating **Python**, **SQL**, and **Power BI**, the analysis provides a comprehensive view of revenue drivers and consumer demographics.
 
